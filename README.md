@@ -2,4 +2,4 @@
 
 ### 기본지도학습 알고리즘
 
-#### 선형 회귀(Linder Regression)
+#### <a herf = "Linear-Regression">선형 회귀(Linear Regression)</a>
